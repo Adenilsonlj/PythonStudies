@@ -1,2 +1,2 @@
 # PythonStudies
-Este repositório é sobre Python, um pequeno currículo quando comecei a aprender esta linguagem incrível. É recomendado para programadores com base de conhecimento sobre lógica de programação.
+This repository is about Python, a little resume when i started learn this incredible language. Is recommended for programmer with knowledge base about programming logic.
